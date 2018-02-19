@@ -1,8 +1,8 @@
 #### Using the ringMod.js Module 
 
-#### Assuming that the ringMod.js module is located in th emodules folder of the WEBide sandbox.
+#### Assuming that the ringMod.js module is located in the modules folder of the WEBide sandbox.
 
-#### Require the module in your code and for convience use a variable to specify the length of the  rinf buffers.
+#### Require the module in your code and for convience use a variable to specify the length of the  ring buffers.
 
 ```
 var R=require('ringMod');
